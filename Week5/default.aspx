@@ -4,6 +4,6 @@
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
         <!-- all visible content goes here -->
         <h1>Week 5</h1>
-        <p class="jumbotron">This application is used to explore the basics of ASP.NET</p>
-
+        <p class="jumbotron">This application is used to to explore the basics of ASP.NET</p>
+    
 </asp:Content>
