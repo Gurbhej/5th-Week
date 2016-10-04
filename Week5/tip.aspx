@@ -14,7 +14,7 @@
     <div class="form-group">
         <label for="ddlPercent" class="control-label col-sm-2">Tip %</label>
         <asp:DropDownList ID="ddlPercent" runat="server">
-            <asp:ListItem Value="-1"Text="-choose-" />
+            <asp:ListItem Value="-1" Text="-choose-" />
             <asp:ListItem Value=".1" Text="10%" />
             <asp:ListItem Value=".15" Text="15%" />
             <asp:ListItem Value=".2" Text="20%" />
